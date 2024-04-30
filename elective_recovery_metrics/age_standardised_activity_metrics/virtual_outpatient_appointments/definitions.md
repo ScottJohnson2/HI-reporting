@@ -11,5 +11,5 @@
 |**`Standardisation methodology`**|Direct standardisation for age and sex was applied using `ageadjust.direct` function from [epitools](https://cran.r-project.org/web/packages/epitools/index.html) r package|
 |**`Standard population`**|2013 European standard population|
 | **`Notes`** |  |
-| **`Caveats`** | <ul><li>Population data are taken from Spine Personal Demographic Service and are current populations only, as these are the only populations data available with the granularity required.</li><li>First iteration of this metric includes both aattended and not attended appointments. Further iterations will split these into separate metrics.</li></ul>|
+| **`Caveats`** | <ul><li>Population data are taken from Spine Personal Demographic Service and are current populations only, as these are the only populations data available with the granularity required.</li><li>First iteration of this metric includes both attended and not attended appointments. Further iterations will split these into separate metrics.</li></ul>|
 
